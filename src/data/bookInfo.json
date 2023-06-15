@@ -1,0 +1,37 @@
+{
+  "author": {
+    "geo": "შოთა რუსთაველი",
+    "eng": "Shota Rustaveli"
+  },
+  "title": {
+    "geo": "ვეფხისტყაოსანი",
+    "eng": "The Knight in the Panther's Skin"
+  },
+  "description": {
+    "geo": "XII საუკუნის ქართველი პოეტის, შოთა რუსთაველის ჩვენამდე მოღწეული ერთადერთი პოემა. შედგება პროლოგის, ძირითადი ნაწილისა და ეპილოგისაგან. შინაარსის მხრივ, ვეფხისტყაოსანი რთული ნაწარმოებია; აქ ორი პარალელური ამბავია მოთხრობილი — არაბეთისა და ინდოეთისა, თუმცა ორივე მათგანი ერთმანეთთან სიუჟეტურად დაკავშირებულია. პოემა მდიდარია პერსონაჟებით. დაწერილია შაირის სტილში, თექვსმეტმარცვლიანი საზომით.",
+    "eng": "The Knight in the Panther's Skin is a Georgian medieval epic poem, written in the 12th or 13th century by Georgia's national poet Shota Rustaveli. A definitive work of the Georgian Golden Age, the poem consists of over 1600 Rustavelian Quatrains and is considered to be a 'masterpiece of the Georgian literature'"
+  },
+  "image": "../assets/poem.jpg",
+  "characters": {
+    "geo": [
+      "ტარიელი — უცხო მოყმე",
+      "ავთანდილი — არაბეთის სპასპეტი",
+      "ნურადინ-ფრიდონი — მულღაზანზარის მეფე",
+      "ნესტან-დარეჯანი — ტარიელის მიჯნური",
+      "თინათინი — ავთანდილის მიჯნური",
+      "როსტევანი — არაბეთის მეფე",
+      "ფარსადანი — ინდოეთის მეფე",
+      "და სხვები..."
+    ],
+    "eng": [
+      "Tariel - The foreign servant",
+      "Avtandil - Spaspet of Arabia",
+      "Nuradin-Fridon - The King of Mulghazanzari",
+      "Nestan-Darejan - Tariel's love",
+      "Tinatin - Avtandil's love",
+      "Rostevan - The King of Arabia",
+      "Farsadan - The King of India",
+      "And others..."
+    ]
+  }
+}
